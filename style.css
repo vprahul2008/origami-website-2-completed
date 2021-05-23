@@ -1,0 +1,29 @@
+
+h1{text-align: center;} 
+h1 {
+    color: white;
+    border: solid;
+}
+
+
+
+.title{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-evenly;
+}
+.panda{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-around;
+}
+.frog{
+    background-color:orange;
+    display:flex;
+    justify-content: space-around;
+}
+.camel{
+    background-color: fuchsia;
+    display:flex;
+    justify-content: space-around;
+}
